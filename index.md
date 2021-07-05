@@ -1,5 +1,3 @@
-# Lori, YO5LNX
-
 Sunt Lori YO5LNX, radioamator la început de drum, Poșta Română prezentându-mi plicul cu autorizația pe 28 iunie 2021. Am creat această pagină în primul rând pentru a orgnizaniza pentru mine informații găsite și primite despre acest hobby minunat. Aș dori mai ales să fiu de ajutor altor doritori de a deveni radioamator YO care (încă) nu au acces la un club sau un mentor, prezentând resursele care m-au ajutat pe mine să fac primi pași. Nu în ultimul rând, sper ca în viitor să pot răspunde cu această pagină și apelului lansat de către [Miron YO3ITI](http://www.yo3iti.ro/wiki/index.php/Wiki_YO3ITI) în [Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 24 aprilie 2021](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=15531s) unui prezentator, și anume de a documenta și publica proiectele proprii în folosul comunității.
 
 ## Mulțumiri
