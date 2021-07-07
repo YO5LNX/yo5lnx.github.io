@@ -2,7 +2,7 @@
 
 # Lori, YO5LNX
 
-Repository for [my personal ham radio web site (Romanian)](index.md)
+Repository for my personal ham radio web site, written in Romanian. You can either view the [GitHub Pages rendered version](https://yo5lnx.icanhas.net) or directly on [GitHub](index.md).
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
