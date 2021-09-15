@@ -29,4 +29,4 @@ Având în vedere că site-ul este destinat organizării unor informații releva
 
 Deocamdată cel mai ușor mod de a mă contacta este pe email, adresa mea se poate obține pornind de la numele de domeniu al acestui site, schimbând primul punct cu simbolul `@` (nu scriu explicit adresa aici din motive evidente).
 
-Pentru sugestii legate de conținutul site-ului se poate folosi și funcționalitatea de [discuții](https://github.com/YO5LNX/yo5lnx.github.io/discussions/new) sau chiar de ["pull request"](https://github.com/YO5LNX/yo5lnx.github.io/pulls) al [proiectului aferent de pe GitHub](https://github.com/YO5LNX/yo5lnx.github.io).
+Pentru sugestii legate de conținutul site-ului se poate folosi și funcționalitatea de [discuții](https://github.com/YO5LNX/yo5lnx.github.io/discussions) sau chiar de ["pull request"](https://github.com/YO5LNX/yo5lnx.github.io/pulls) al [proiectului aferent de pe GitHub](https://github.com/YO5LNX/yo5lnx.github.io).

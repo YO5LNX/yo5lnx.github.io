@@ -10,14 +10,14 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 
 - [Site-ul de bază a radioamatorismului din România](https://www.radioamator.ro/)
 - Căutare indicative
-  - https://www.radioamator.ro/call-book/yocall.php?call=YO5LNX
-  - https://www.qrz.com/db/YO5LNX
-  - https://www.qrzcq.com/call/YO5LNX
-  - https://hamcall.net/call?callsign=YO5LNX
+  - [Call Book YO pe RadioAmator.ro](https://www.radioamator.ro/call-book/yocall.php?call=YO5LNX)
+  - [QRZ Callsign Database Search](https://www.qrz.com/db/YO5LNX)
+  - [QRZCQ - The database for radio hams](https://www.qrzcq.com/call/YO5LNX)
+  - [HamCall World-Wide Callsign Database](https://hamcall.net/call?callsign=YO5LNX)
 - Repetoare
-  - https://www.radioamator.ro/misc/amplasamente.php
-  - http://www.439100.ro/harta/
-  - https://www.repeaterbook.com/row_repeaters/Display_SS.php?state_id=RO&loc=%25&call=%25&use=%25
+  - [Amplasamente și repetoare YO pe RadioAmator.ro](https://www.radioamator.ro/misc/amplasamente.php)
+  - [Hartă SVX, RoLink, D-Star YO, DMR, Tetra, VHF, UHF](http://www.439100.ro/harta/)
+  - [RepeaterBook](https://www.repeaterbook.com/row_repeaters/Display_SS.php?state_id=RO&loc=%25&call=%25&use=%25)
 - [Alocare frecvențe](https://www.radioreference.com/apps/db/?aid=8356)
 - [Frecvențe folosite de aeroporturi](https://skyvector.com/airport/LRCL/Cluj-Napoca-Airport)
 - [Recenzii echipamente](https://www.eham.net/reviews/)
