@@ -1,4 +1,4 @@
-Sunt Lori YO5LNX, radioamator la început de drum, Poșta Română prezentându-mi plicul cu autorizația pe 28 iunie 2021. Am creat această pagină în primul rând pentru a orgnizaniza pentru mine informații găsite și primite despre acest hobby minunat. Aș dori mai ales să fiu de ajutor altor doritori de a deveni radioamator YO care (încă) nu au acces la un club sau un mentor, prezentând resursele care m-au ajutat pe mine să fac primi pași. Nu în ultimul rând, sper ca în viitor să pot răspunde cu această pagină și apelului lansat de către [Miron YO3ITI](http://www.yo3iti.ro/wiki/index.php/Wiki_YO3ITI) în [Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 24 aprilie 2021](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=15531s) unui prezentator, și anume de a documenta și publica proiectele proprii în folosul comunității.
+Sunt Lori YO5LNX, radioamator la început de drum, Poșta Română prezentându-mi plicul cu autorizația pe 28 iunie 2021. Am creat această pagină în primul rând pentru a [organiza pentru mine informații găsite și primite despre acest hobby minunat](./linkuri_diverse_radioamatorism.md). Aș dori mai ales să fiu de ajutor altor doritori de a deveni radioamator YO care (încă) nu au acces la un club sau un mentor, prezentând resursele care m-au ajutat pe mine să fac primi pași. Nu în ultimul rând, sper ca în viitor să pot răspunde cu această pagină și apelului lansat de către [Miron YO3ITI](http://www.yo3iti.ro/wiki/index.php/Wiki_YO3ITI) în [Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 24 aprilie 2021](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=15531s) unui prezentator, și anume de a documenta și publica proiectele proprii în folosul comunității.
 
 ## Mulțumiri
 
@@ -15,8 +15,18 @@ De mic copil sunt un împătimit al drumețiilor montane, așa că prima mea act
 
 Pe de altă parte, motivația inițială de a deveni radioamator a fost domeniul comunicațiilor în situații de urgență (emcomm), un domeniu în care doresc să fiu activ după ce o să am mai multă experiență radioamatoricească (sau îmi găsesc un mentor în domeniu care mă îndrumă și fiind încă fără experiență).
 
-În afară de SOTA și emcomm sper să am timp și pentru proiecte de SDR și comunicații în spațiu.
+În afară de SOTA și emcomm sper să am timp și pentru proiecte de SDR și comunicații în spațiu/satelit, în special pentru participarea în proiectul [SatNOGS](https://satnogs.org/).
+
+## Despre site
+
+Deși nu sunt programator de profesie, îmi place ingineria software și folosirea uneltelor specifice și în alte scopuri. De aceea în general folosesc **Markdown** pentru scrierea notițelor despre orice temă care mă interesează, și sistemul de control al reviziilor **[Git](https://hosterion.ro/enciclopedie/gazduire/git)** pentru a menține istorialul modificărilor acestor notițe. [Markdown](https://www.markdownguide.org/basic-syntax/) este o modalitate de a scrie text structurat și formatat (titluri, subtitluri, linkuri, bold, italic, etc.) fară a folosi un editor de text sofisticat gen Microsoft Word, sau un editor HTML. Este o modalitate prin care autorul unui text se poate concentra în primul rând pe conținut și structură, nu pe formatare.
+
+Folosirea Git, și în mod special a platformei gratuite de găzduire a proiectelor Git numit [GitHub](https://github.com/) îmi permite conversia automată a notițelor din formatul Markdown în format HTML stilizat ([GitHub Pages](https://pages.github.com/)), și [verificarea tuturor linkurilor](https://github.com/gaurav-nelson/github-action-markdown-link-check) atât la fiecare modificare a paginii, cât și periodic ([am configurat o dată pe săptămână](https://github.com/YO5LNX/yo5lnx.github.io/blob/main/.github/workflows/linkcheck.yml#L6)). Nu știu dacă e soluția optimă, dar în spirit radioamatoricesc acest site este un experiment, dat fiind ca e prima dată când folosesc GitHub Pages.
+
+Având în vedere că site-ul este destinat organizării unor informații relevante în primul rând **radioamatorismului din România**, vă invit să-mi trimiteți sugestiile pentru îmbunătățiri prin una din metodele prezentate la secțiunea [Contact](#contact).
 
 ## Contact
 
-Deocamdată cel mai ușor mod de a mă contacta e pe email, adresa mea se poate obține pornind de la numele de domeniu al acestui site, schimbând primul punct cu simbolul `@` (nu scriu explicit adresa aici din motivele evidente).
+Deocamdată cel mai ușor mod de a mă contacta este pe email, adresa mea se poate obține pornind de la numele de domeniu al acestui site, schimbând primul punct cu simbolul `@` (nu scriu explicit adresa aici din motive evidente).
+
+Pentru sugestii legate de conținutul site-ului se poate folosi și funcționalitatea de [discuții](https://github.com/YO5LNX/yo5lnx.github.io/discussions/new) sau chiar de ["pull request"](https://github.com/YO5LNX/yo5lnx.github.io/pulls) al [proiectului aferent de pe GitHub](https://github.com/YO5LNX/yo5lnx.github.io).
