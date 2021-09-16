@@ -8,7 +8,7 @@ Pe de altă parte, chiar dacă am găsit multă informație cu Google, sunt doar
 
 Și nu în ultimul rând, pentru a căuta informații despre ceva anume, trebuie stiut de existența lui, lucru care pentru cineva la încput de drum nu e deloc garantat.
 
-Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) acestei pagini... în care ”arunc” linkurile către resurse radioamatoricești care mie personal mi s-au părut interesante, și pentru care încă nu am creat o categorie cu pagină separată detaliată. Pentru sugestii, [contactați-mă](./index.md#contact)!
+Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) acestei pagini... în care ”arunc” linkurile către resurse radioamatoricești care mie personal mi s-au părut interesante, și pentru care încă nu am creat o categorie cu pagină separată detaliată și comentarii despre experiența mea cu resursa respectivă. Pentru sugestii, [contactați-mă](./index.md#contact)!
 
 ## Fără categorie
 
@@ -35,6 +35,19 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [CQ Amateur Radio](https://cq-amateur-radio.com/)
 - [Practical Wireless](https://www.radioenthusiast.co.uk/)
 - [CQ-DATV (gratuit)](https://www.cq-datv.mobi/)
+
+## Inițiative radioamatoricești pentru comunicații de urgență în România
+
+> Dacă cineva are mai multe informații despre acest domeniu îl rog mult să mă [contacteze](./index.md#contact), pentru că sunt foarte interesat de temă.
+
+- [Radioamatori Voluntari în Situații de Urgență (RVSU)](https://www.rvsu.ro/), ([Facebook](https://www.facebook.com/RVSU.RO/)) - pare cea mai serioasă și activă inițiativă, participând la exerciții coordonate cu Departamentul pentru Situații de urgență (DSU) cu participare NATO, Crucea Roșie, Clubul Câinilor utilitari, etc. Mai multe detalii pe [blogul lui YO3IHG](https://yo3ihg.blogspot.com/p/rvsu.html) și în acest [articol RadioAmator.ro](https://www.radioamator.ro/articole/view.php?id=1222) sau pe [forumul RadioAmator.ro](https://www.radioamator.ro/forum/viewtopic.php?t=2730)
+- Transilvania Amateur Radio Emergency Service (TARES) - foarte puțină informație despre acest grup, pare să fie format de membrii clubului YO5KIP de la Cluj, al cărui site pare să fie [suspendat](https://www.amatoradio.ro/)
+- [Rețeaua Națională de Urgență a FRR](https://www.radioamator.ro/articole/view.php?id=263) - nu cred că mai există, dar Google găsește încă un [formular de înscriere](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fwww.hamradio.ro%2Fwp-content%2Fuploads%2F2020%2F05%2Fcerere-rnu.docx&wdOrigin=BROWSELINK)
+- [APRS](https://ro.wikipedia.org/wiki/APRS) e o technologie care poate fi utilă în timpul unor dezastre care afectează rețelele de comunicații normale:
+  - [APRS România](http://www.aprs.ro/)
+  - [Hartă APRS](https://aprs.fi/)
+  - [Hartă alternativă APRS](https://www.aprsdirect.com/)
+  - [Aplicație Android pentru APRS](https://aprsdroid.org/) - e contra cost, dar recomandat de multă lume, îl folosesc și eu. Un telefon împreună cu un [TNC](https://en.wikipedia.org/wiki/Terminal_node_controller) se poate folosi pentru APRS și fără conexiune Internet, eu încă nu am încercat.
 
 ## Telegrafie. Învățarea codului Morse
 
