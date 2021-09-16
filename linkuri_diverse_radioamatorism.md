@@ -10,6 +10,7 @@ Pe de altă parte, chiar dacă am găsit multă informație cu Google, sunt doar
 
 Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) acestei pagini... în care ”arunc” linkurile către resurse radioamatoricești care mie personal mi s-au părut interesante, și pentru care încă nu am creat o categorie cu pagină separată detaliată și comentarii despre experiența mea cu resursa respectivă. Pentru sugestii, [contactați-mă](./index.md#contact)!
 
+
 ## Fără categorie
 
 - [Site-ul de bază a radioamatorismului din România](https://www.radioamator.ro/)
@@ -21,6 +22,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - Repetoare
   - [Amplasamente și repetoare YO pe RadioAmator.ro](https://www.radioamator.ro/misc/amplasamente.php)
   - [Hartă SVX, RoLink, D-Star YO, DMR, Tetra, VHF, UHF](http://www.439100.ro/harta/)
+  - [UUS.RO VHF](http://repetoare.uus.ro/index.html), [UUS.RO UHF](http://repetoare.uus.ro/uhf.html)
   - [RepeaterBook](https://www.repeaterbook.com/row_repeaters/Display_SS.php?state_id=RO&loc=%25&call=%25&use=%25)
 - [Alocare frecvențe](https://www.radioreference.com/apps/db/?aid=8356)
 - [Frecvențe folosite de aeroporturi](https://skyvector.com/airport/LRCL/Cluj-Napoca-Airport)
@@ -29,12 +31,21 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [Explicare a bannerelor de activitate solară](https://www.qsl.net/co8tw/Understanding%20HF%20propagation.pdf)
 - [Radio Nostalgia. Casa-Muzeu Brusturi](http://radionostalgia-brusturi.ro/adminftp/)
 
+
+## Comunități online
+
+- [RadioAmator.ro](https://www.radioamator.ro/forum/)
+- [UUS.ro](http://forum.uus.ro/)
+- [Softpedia](https://forum.softpedia.com/forum/653-radioamatorism/)
+
+
 ## Publicații
 
 - [ARRL QST Magazine](https://www.arrl.org/qst)
 - [CQ Amateur Radio](https://cq-amateur-radio.com/)
 - [Practical Wireless](https://www.radioenthusiast.co.uk/)
 - [CQ-DATV (gratuit)](https://www.cq-datv.mobi/)
+
 
 ## Inițiative radioamatoricești pentru comunicații de urgență în România
 
@@ -48,6 +59,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
   - [Hartă APRS](https://aprs.fi/)
   - [Hartă alternativă APRS](https://www.aprsdirect.com/)
   - [Aplicație Android pentru APRS](https://aprsdroid.org/) - e contra cost, dar recomandat de multă lume, îl folosesc și eu. Un telefon împreună cu un [TNC](https://en.wikipedia.org/wiki/Terminal_node_controller) se poate folosi pentru APRS și fără conexiune Internet, eu încă nu am încercat.
+
 
 ## Telegrafie. Învățarea codului Morse
 
