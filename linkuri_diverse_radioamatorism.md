@@ -4,6 +4,10 @@ Unii dintre noi mai ținem minte **cărți** (tipărite!) de genul ”1001 site-
 
 Motoarele de căutare generale însă au performanțe relativ limitate pentru domeniile foarte specializate, fapt dovedit de existența unor motoare de căutare specializate pentru [articole academice](https://scholar.google.com/), [brevete de invenție](https://patents.google.com/), [forumuri](https://boardreader.com/), etc. Alt aspect care limitează performanța motoarelor de căutare este limba: paginile scrise într-o limbă alta decât engleza parcă nu sunt ”înțelese” la fel de bine.
 
+Pe de altă parte, chiar dacă am găsit multă informație cu Google, sunt doar câteva dintre rezultate care îmi plac. Deși cred că o să le găsesc ușor și data viitoare, de multe ori nu mai știu exact ce cuvinte cheie am folosit, sau poate am ajuns la pagina interesantă indirect, după ce am dat click pe un link într-unul dintre rezultate. Trebuia să salvez *bookmark*!
+
+Și nu în ultimul rând, pentru a căuta informații despre ceva anume, trebuie stiut de existența lui, lucru care pentru cineva la încput de drum nu e deloc garantat.
+
 Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) acestei pagini... în care ”arunc” linkurile către resurse radioamatoricești care mie personal mi s-au părut interesante, și pentru care încă nu am creat o categorie cu pagină separată detaliată. Pentru sugestii, [contactați-mă](./index.md#contact)!
 
 ## Fără categorie
@@ -27,16 +31,20 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 
 ## Publicații
 
-- [ARRL QST Magazine](http://www.arrl.org/qst)
+- [ARRL QST Magazine](https://www.arrl.org/qst)
 - [CQ Amateur Radio](https://cq-amateur-radio.com/)
 - [Practical Wireless](https://www.radioenthusiast.co.uk/)
 - [CQ-DATV (gratuit)](https://www.cq-datv.mobi/)
 
 ## Telegrafie. Învățarea codului Morse
 
-Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, dar pentru pasionații de concursuri, DX, emcomm sau SOTA utilizarea codului Morse (modul CW de operare) poate fi utilă. Sunt două metode principale prin care se învață: memorarea tuturor simbolurilor, sau **metoda Koch**, ascultarea la viteză normală a simbolurilor.
+Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, dar pentru pasionații de concursuri, DX, emcomm sau SOTA utilizarea codului Morse (modul CW de operare) poate fi utilă.
 
-- [Despre metoda Koch (engleză)](http://aa9pw.com/morsecode-test/so-you-want-to-learn-morse-code/)
+- [Despre metoda Koch (engleză)](https://aa9pw.com/morsecode-test/so-you-want-to-learn-morse-code/)
+- [LCWO.net - Learn CW Online](https://lcwo.net/ro/welcome) - utilitar online pentru învățarea comunicării în CW, cu interfață în multe limbi, inclusiv română
+  - [Video pe YouTube explicând cum se folosește eficient LCWO.net](https://www.youtube.com/watch?v=iF687Kc203w)
 - [Software multiplatformă (Windows, macOS, Linux) pentru învățarea prin metoda Koch](https://github.com/hmatuschek/kochmorse)
 - [Aplicație Android pentru învățarea prin metoda Koch](https://play.google.com/store/apps/details?id=net.iz2uuf.cwkoch)
 - [Simulator de concursuri Morse Runner](http://www.dxatlas.com/MorseRunner/)
+- [CW Academy](https://cwops.org/cw-academy/cw-academy-options/) - cursuri gratuite prin Zoom cu instructor și alți cursanți în timp real (nu înregistrări video)
+- [Clase online Long Island CW Club](https://longislandcwclub.org/cw-online-classes/) - pentru membrii (1 an = $30), organizație internațională, nu trebuie să fii din Long Island
