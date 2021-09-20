@@ -27,16 +27,30 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [Alocare frecvențe](https://www.radioreference.com/apps/db/?aid=8356)
 - [Frecvențe folosite de aeroporturi](https://skyvector.com/airport/LRCL/Cluj-Napoca-Airport)
 - [Recenzii echipamente](https://www.eham.net/reviews/)
-- [Activitate solară](http://www.hamqsl.com/solar.html)
-- [Explicare a bannerelor de activitate solară](https://www.qsl.net/co8tw/Understanding%20HF%20propagation.pdf)
+- Activitate solară și propagare
+  - [Bannere activitate solară](http://www.hamqsl.com/solar.html)
+  - [Explicare a bannerelor de activitate solară](https://www.qsl.net/co8tw/Understanding%20HF%20propagation.pdf)
+  - [Buletine de propagare YO](https://www.radioamator.ro/misc/buletinepropagare.php)
 - [Radio Nostalgia. Casa-Muzeu Brusturi](http://radionostalgia-brusturi.ro/adminftp/)
 
 
 ## Comunități online
 
+### Forumuri
+
 - [RadioAmator.ro](https://www.radioamator.ro/forum/)
 - [UUS.ro](http://forum.uus.ro/)
+- [hamnet.ro](http://forum.hamnet.ro/phpBB3/)
 - [Softpedia](https://forum.softpedia.com/forum/653-radioamatorism/)
+
+### Canale YouTube
+
+- [YO3ITI](https://www.youtube.com/channel/UC41jXwUm1Usd4CdgN7vykZw)
+- [Cristina YO7JYL](https://www.youtube.com/channel/UCqaR99awg0BcjnJ1BLX8dnw)
+- [HAMRadioRomania - YO2MPL](https://www.youtube.com/user/catalinvoicu84)
+- [Radioclub CSM Bistrița - YO5KUC](https://www.youtube.com/channel/UCocKejtdOGGHPaOYM46j6vA)
+- [DX Explorers - YO3KEX](https://www.youtube.com/channel/UC1vqO4VwObhgT2InsrJ1Jrg)
+- [Radioamator.ro](https://www.youtube.com/channel/UCwWyi81quiU4eFFyUPSR4rw)
 
 
 ## Publicații
