@@ -1,0 +1,32 @@
+# Summits on the Air (SOTA)
+
+Deocamdată arunc aici doar linkurile paginilor interesante găsite de mine, dar o să încerc să ofer și comentariile mele despre resursele listate, și poate și ceva conținut original scris de mine, după ce o să am ceva experiență în domeniu.
+
+- [Site-ul oficial al programului](https://www.sota.org.uk/)
+- [SOTA Reflector - Forumul oficial](https://reflector.sota.org.uk/) - forumul folosește [Discourse](https://www.discourse.org/), după părerea mea cea mai bună platformă de discuții online
+- [SOTLAS](https://sotl.as/) - hartă interativă cu activări, vârfuri, alerte, mi se pare una dintre cele mai utile resurse SOTA
+- [SOTAwatch3](https://sotawatch.sota.org.uk/en/) - site-ul oficial cu ultimele activări și linkuri spre discuții de pe Reflector
+- [SOTA Spotter (Android)](https://play.google.com/store/apps/details?id=ro.netroute.sotaspotter) - cea mai populară aplicație pentru spotting, scrisă de Bogdan Lazanu, YO8SAW
+
+## Echipament
+
+Pentru un începător poate partea cea mai grea... fără experiență nu prea știi de ce o să ai nevoie. Echipamentul e o alegere foarte personală, care depinde de mulți factori, în primul rând o idee relativ clară despre obiective, mai exact pentru ce, și cum va fi folosit. La început de drum nu prea ai cum să știi răspunsurile la toate întrebările care se pun înaintea achiziției echipamentului. Îi întrebi pe cei mai experimentați, doar toată lumea are anumite preferințe personale care nu neapărat ți se potrivesc. Și atunci cum să alegi? Te documentezi pe cât poți, asculți cât mai multe păreri ca să îți formezi propria părere, și încerci să nu cheltui prea mult din prima, poate cumpărând second-hand echipament care pare să fie recomandat de o majoritate copleșitoare. Dar întoatdeauna trebuie ținute în cont particularitățile locale: activitățile SOTA din țări diferite au aspecte diferite, de expemplu la noi e foarte greu să activezi doar pe banda de 2m.
+
+Articolul următor în două părți mi s-a părut foarte complet, chiar dacă autorul e din Statele Unite, merită citit, cu filtrele de rigoare. A folosit toate transceiverele populare pentru SOTA și rezumă în câteva cuvinte diferențele esențiale între ele, dar vorbește și despre antene, baterii, rucsaci, și alte aspecte importante.
+
+- [Anatomy of a Field Radio Kit Part 1: Basic components and advantages of going QRP](https://qrper.com/2021/08/anatomy-of-a-field-radio-kit-part-1-basic-components-and-advantages-of-going-qrp/)
+- [Anatomy of a Field Radio Kit Part 2: Kit Types, Preparedness, and the Golden Rules](https://qrper.com/2021/09/anatomy-of-a-field-radio-kit-part-2-kit-types-preparedness-and-the-golden-rules/)
+
+- [Discuții despre echipamente pe SOTA reflector](https://reflector.sota.org.uk/c/equipment/14)
+
+## Comunitatea SOTA din România
+
+- [Prezentare despre SOTA de Mihai Suciu YO6SM](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=18766s) - la Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 24 aprilie 2021
+- [Lecție SOTA de Sorin YO2MSB](https://www.youtube.com/watch?v=b9i-oRrEzJg)
+- [Blog SOTA-Romania (inactiv)](http://sota-romania.blogspot.com/)
+- [Blogul Radioclubului Școlar ”Gheorghe Șincai”](https://yo6kgs.blogspot.com/search/label/SOTA)
+  - [SOTA - un sport minunat !](https://yo6kgs.blogspot.com/2021/04/sota-un-sport-minunat.html) - introducere în SOTA pe blogul mai sus menționat, cu linkuri spre tot felul de resurse
+  - [Pagina Fabebook a YO6KGS](https://www.facebook.com/miciiradioamatori)
+- [Pagina de Facebook RADIOCLUBUL SOTA YO](https://www.facebook.com/groups/484073671714735)
+- [O comunitate din Suceava](http://adone.geonet.ro/sota/) - site-ul este întreținut de către YO8AZQ
+- [Secțiunea ”Activități WWFF SOTA/IOTA/POTA/xOTA” pe forumul RadioAmator.ro](https://www.radioamator.ro/forum/viewforum.php?f=54)

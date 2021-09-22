@@ -1,4 +1,4 @@
-Sunt Lori YO5LNX, radioamator la început de drum, Poșta Română prezentându-mi plicul cu autorizația pe 28 iunie 2021. Am creat această pagină în primul rând pentru a [organiza pentru mine informații găsite și primite despre acest hobby minunat](./linkuri_diverse_radioamatorism.md). Aș dori mai ales să fiu de ajutor altor doritori de a deveni radioamator YO care (încă) nu au acces la un club sau un mentor, prezentând resursele care m-au ajutat pe mine să fac primi pași. Nu în ultimul rând, sper ca în viitor să pot răspunde cu această pagină și apelului lansat de către [Miron YO3ITI](http://www.yo3iti.ro/wiki/index.php/Wiki_YO3ITI) în [Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 24 aprilie 2021](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=15531s) unui prezentator, și anume de a documenta și publica proiectele proprii în folosul comunității.
+Sunt Lori YO5LNX, radioamator la început de drum, Poșta Română prezentându-mi plicul cu autorizația pe 28 iunie 2021. Am creat această pagină în primul rând pentru a [organiza pentru mine informații găsite și primite despre acest hobby minunat](./linkuri_diverse_radioamatorism.md). Aș dori mai ales să fiu de ajutor altor doritori de a deveni radioamator YO care (încă) nu au acces la un club sau un mentor, prezentând resursele care m-au ajutat pe mine să fac primi pași. Nu în ultimul rând, sper ca în viitor să pot răspunde cu această pagină și apelului lansat de către [Miron YO3ITI](http://www.yo3iti.ro/wiki/index.php/Wiki_YO3ITI) la [Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 24 aprilie 2021](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=15531s) unui prezentator, și anume de a documenta și publica proiectele proprii în folosul comunității.
 
 ## Mulțumiri
 
@@ -11,7 +11,7 @@ Sunt Lori YO5LNX, radioamator la început de drum, Poșta Română prezentându-
 
 ## Privind înainte
 
-De mic copil sunt un împătimit al drumețiilor montane, așa că prima mea activitate radioamatoricească o să se îndrepte spre activări [SOTA](https://www.sota.org.uk/).
+De mic copil sunt un împătimit al drumețiilor montane, așa că prima mea activitate radioamatoricească o să se îndrepte spre activări [SOTA](https://www.sota.org.uk/), despre care am adunat tot felul de linkuri către resurse diferite [aici](./sota.md).
 
 Pe de altă parte, motivația inițială de a deveni radioamator a fost domeniul comunicațiilor în situații de urgență (emcomm), un domeniu în care doresc să fiu activ după ce o să am mai multă experiență radioamatoricească (sau îmi găsesc un mentor în domeniu care mă îndrumă și fiind încă fără experiență).
 
