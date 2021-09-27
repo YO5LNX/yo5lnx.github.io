@@ -17,16 +17,31 @@ Articolul următor în două părți mi s-a părut foarte complet, chiar dacă a
 - [Anatomy of a Field Radio Kit Part 1: Basic components and advantages of going QRP](https://qrper.com/2021/08/anatomy-of-a-field-radio-kit-part-1-basic-components-and-advantages-of-going-qrp/)
 - [Anatomy of a Field Radio Kit Part 2: Kit Types, Preparedness, and the Golden Rules](https://qrper.com/2021/09/anatomy-of-a-field-radio-kit-part-2-kit-types-preparedness-and-the-golden-rules/)
 
+Un articol foarte detaliat dedicat bateriilor de la același autor:
+
+- [Portable Power Primer](https://qrper.com/2021/07/portable-power-a-beginners-guide-to-selecting-the-best-battery-option-for-your-field-radio-kit/)
+
+Alte resurse:
+
 - [Discuții despre echipamente pe SOTA reflector](https://reflector.sota.org.uk/c/equipment/14)
+- [SOTABEAMS - Magazin online din UK dedicat SOTA](https://www.sotabeams.co.uk/)
 
 ## Comunitatea SOTA din România
 
 - [Prezentare despre SOTA de Mihai Suciu YO6SM](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=18766s) - la Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 24 aprilie 2021
 - [Lecție SOTA de Sorin YO2MSB](https://www.youtube.com/watch?v=b9i-oRrEzJg)
 - [Blog SOTA-Romania (inactiv)](http://sota-romania.blogspot.com/)
-- [Blogul Radioclubului Școlar ”Gheorghe Șincai”](https://yo6kgs.blogspot.com/search/label/SOTA)
+- [Blog YO6PIB, cel mal prolific activator SOTA YO (lb. engleză și maghiară)](https://yo6pib.blogspot.com/)
+- [Blog YO3IHG: Field Day & QRP](https://yo3ihg.blogspot.com/p/qrp-field-day.html) - despre operare QRP în general, nu doar SOTA, dar util oricum
+- [Blogul Radioclubului Școlar ”Gheorghe Șincai” YO6KGS](https://yo6kgs.blogspot.com/search/label/SOTA)
   - [SOTA - un sport minunat !](https://yo6kgs.blogspot.com/2021/04/sota-un-sport-minunat.html) - introducere în SOTA pe blogul mai sus menționat, cu linkuri spre tot felul de resurse
   - [Pagina Fabebook a YO6KGS](https://www.facebook.com/miciiradioamatori)
 - [Pagina de Facebook RADIOCLUBUL SOTA YO](https://www.facebook.com/groups/484073671714735)
 - [O comunitate din Suceava](http://adone.geonet.ro/sota/) - site-ul este întreținut de către YO8AZQ
 - [Secțiunea ”Activități WWFF SOTA/IOTA/POTA/xOTA” pe forumul RadioAmator.ro](https://www.radioamator.ro/forum/viewforum.php?f=54)
+
+## Comunități internaționale
+
+- [SOTA Reflector](https://reflector.sota.org.uk/)]
+- [Fabebook](https://www.facebook.com/groups/37631909313)
+- [Reddit](https://www.reddit.com/r/SummitsOnTheAir/)
