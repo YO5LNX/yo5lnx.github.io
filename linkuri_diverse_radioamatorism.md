@@ -19,6 +19,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
   - [QRZ Callsign Database Search](https://www.qrz.com/db/YO5LNX)
   - [QRZCQ - The database for radio hams](https://www.qrzcq.com/call/YO5LNX)
   - [HamCall World-Wide Callsign Database](https://hamcall.net/call?callsign=YO5LNX)
+  - [HamQTH](https://www.hamqth.com/YO5LNX)
 - Repetoare
   - [Amplasamente și repetoare YO pe RadioAmator.ro](https://www.radioamator.ro/misc/amplasamente.php)
   - [Hartă SVX, RoLink, D-Star YO, DMR, Tetra, VHF, UHF](http://www.439100.ro/harta/)
@@ -43,6 +44,9 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [hamnet.ro](http://forum.hamnet.ro/phpBB3/)
 - [Softpedia](https://forum.softpedia.com/forum/653-radioamatorism/)
 
+- [QRZ Forums](https://forums.qrz.com/)
+- [eHam Forums](https://www.eham.net/forum/index)
+
 ### Canale YouTube
 
 - [YO3ITI](https://www.youtube.com/channel/UC41jXwUm1Usd4CdgN7vykZw)
@@ -58,6 +62,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [ARRL QST Magazine](https://www.arrl.org/qst)
 - [CQ Amateur Radio](https://cq-amateur-radio.com/)
 - [Practical Wireless](https://www.radioenthusiast.co.uk/)
+- [RSGB RadCom](https://rsgb.org/main/publications-archives/radcom/)
 - [CQ-DATV (gratuit)](https://www.cq-datv.mobi/)
 
 
@@ -73,6 +78,9 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
   - [Hartă APRS](https://aprs.fi/)
   - [Hartă alternativă APRS](https://www.aprsdirect.com/)
   - [Aplicație Android pentru APRS](https://aprsdroid.org/) - e contra cost, dar recomandat de multă lume, îl folosesc și eu. Un telefon împreună cu un [TNC](https://en.wikipedia.org/wiki/Terminal_node_controller) se poate folosi pentru APRS și fără conexiune Internet, eu încă nu am încercat.
+- [JS8Call](http://js8call.com/) - nu e deloc popular/cunoscut în România, dar mi s-a părut foarte interesant, temă de studiat
+  - [Postări de OH8STN despre JS8Call](http://oh8stn.org/blog/tag/js8call/)
+  - [Hartă JS8](https://pskreporter.info/pskmap.html?preset&callsign=ZZZZZ&mode=JS8&mapCenter=45.984854667211124,25.188410546247265,7.384898167217304)
 
 
 ## Telegrafie. Învățarea codului Morse
