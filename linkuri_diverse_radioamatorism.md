@@ -83,6 +83,13 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
   - [Hartă JS8](https://pskreporter.info/pskmap.html?preset&callsign=ZZZZZ&mode=JS8&mapCenter=45.984854667211124,25.188410546247265,7.384898167217304)
 
 
+## Software
+
+Având în vedere că folosesc Linux pe calculatoarele personale (și macOS la lucru), această secțiune o să fie orientată pe software disponibil pentru acest sistem de operare. Consider că filozofia *open source* se adaptează foarte bine radioamatorismului, și încurajez toată lumea să încerce să dea prioritate software-ului *open source* când acest lucru e posibil. Acestea fiind zise, și în cadrul soluțiilor *open source* în general prefer programele **multi-platformă** care rulează pe toate cele trei sisteme de operare majore (Windows, macOS, Linux).
+
+- [Colecție de linkuri despre radioamatorism cu GNU/Linux](https://hamwaves.com/linux.ham/en/index.html)
+
+
 ## Telegrafie. Învățarea codului Morse
 
 Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, dar pentru pasionații de concursuri, DX, emcomm sau SOTA utilizarea codului Morse (modul CW de operare) poate fi utilă.
@@ -90,7 +97,7 @@ Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, da
 - [Despre metoda Koch (engleză)](https://aa9pw.com/morsecode-test/so-you-want-to-learn-morse-code/)
 - [LCWO.net - Learn CW Online](https://lcwo.net/ro/welcome) - utilitar online pentru învățarea comunicării în CW, cu interfață în multe limbi, inclusiv română
   - [Video pe YouTube explicând cum se folosește eficient LCWO.net](https://www.youtube.com/watch?v=iF687Kc203w)
-- [Software multiplatformă (Windows, macOS, Linux) pentru învățarea prin metoda Koch](https://github.com/hmatuschek/kochmorse)
+- [Software multi-platformă (Windows, macOS, Linux) pentru învățarea prin metoda Koch](https://github.com/hmatuschek/kochmorse)
 - [Aplicație Android pentru învățarea prin metoda Koch](https://play.google.com/store/apps/details?id=net.iz2uuf.cwkoch)
 - [Simulator de concursuri Morse Runner](http://www.dxatlas.com/MorseRunner/)
 - [CW Academy](https://cwops.org/cw-academy/cw-academy-options/) - cursuri gratuite prin Zoom cu instructor și alți cursanți în timp real (nu înregistrări video)
