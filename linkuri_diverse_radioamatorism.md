@@ -11,10 +11,11 @@ Pe de altă parte, chiar dacă am găsit multă informație cu Google, sunt doar
 Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) acestei pagini... în care ”arunc” linkurile către resurse radioamatoricești care mie personal mi s-au părut interesante, și pentru care încă nu am creat o categorie cu pagină separată detaliată și comentarii despre experiența mea cu resursa respectivă. Pentru sugestii, [contactați-mă](./index.md#contact)!
 
 
-## Fără categorie
+## 🔗 Fără categorie
 
 - [Site-ul de bază a radioamatorismului din România](https://www.radioamator.ro/)
 - Căutare indicative
+  - [Callbook ANCOM (format Excel)](https://www.ancom.ro/downloadFile/url/Callbook_16_09_2021.xlsx)
   - [Call Book YO pe RadioAmator.ro](https://www.radioamator.ro/call-book/yocall.php?call=YO5LNX)
   - [QRZ Callsign Database Search](https://www.qrz.com/db/YO5LNX)
   - [QRZCQ - The database for radio hams](https://www.qrzcq.com/call/YO5LNX)
@@ -35,9 +36,9 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [Radio Nostalgia. Casa-Muzeu Brusturi](http://radionostalgia-brusturi.ro/adminftp/)
 
 
-## Comunități online
+## 🌐 Comunități online
 
-### Forumuri
+### 💭 Forumuri
 
 - [RadioAmator.ro](https://www.radioamator.ro/forum/)
 - [UUS.ro](http://forum.uus.ro/)
@@ -47,7 +48,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [QRZ Forums](https://forums.qrz.com/)
 - [eHam Forums](https://www.eham.net/forum/index)
 
-### Canale YouTube
+### ▶️ Canale YouTube
 
 - [YO3ITI](https://www.youtube.com/channel/UC41jXwUm1Usd4CdgN7vykZw)
 - [Cristina YO7JYL](https://www.youtube.com/channel/UCqaR99awg0BcjnJ1BLX8dnw)
@@ -57,16 +58,19 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [Radioamator.ro](https://www.youtube.com/channel/UCwWyi81quiU4eFFyUPSR4rw)
 
 
-## Publicații
+## 📚 Publicații
 
 - [ARRL QST Magazine](https://www.arrl.org/qst)
+- [ARRL On The Air](http://www.arrl.org/on-the-air-magazine)
 - [CQ Amateur Radio](https://cq-amateur-radio.com/)
 - [Practical Wireless](https://www.radioenthusiast.co.uk/)
 - [RSGB RadCom](https://rsgb.org/main/publications-archives/radcom/)
 - [CQ-DATV (gratuit)](https://www.cq-datv.mobi/)
 
+- [▶️ A Video History of Ham Radio Publications](https://www.youtube.com/watch?v=lCVUgybTmwY) - via [YO6KGS blog](https://yo6kgs.blogspot.com/2020/10/a-video-history-of-ham-radio.html)
 
-## Inițiative radioamatoricești pentru comunicații de urgență în România
+
+## 🆘 Inițiative radioamatoricești pentru comunicații de urgență în România
 
 > Dacă cineva are mai multe informații despre acest domeniu îl rog mult să mă [contacteze](./index.md#contact), pentru că sunt foarte interesat de temă.
 
@@ -83,7 +87,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
   - [Hartă JS8](https://pskreporter.info/pskmap.html?preset&callsign=ZZZZZ&mode=JS8&mapCenter=45.984854667211124,25.188410546247265,7.384898167217304)
 
 
-## Software
+## 🖥️ Software
 
 Având în vedere că folosesc Linux pe calculatoarele personale (și macOS la lucru), această secțiune o să fie orientată pe software disponibil pentru acest sistem de operare. Consider că filozofia *open source* se adaptează foarte bine radioamatorismului, și încurajez toată lumea să încerce să dea prioritate software-ului *open source* când acest lucru e posibil. Acestea fiind zise, și în cadrul soluțiilor *open source* în general prefer programele **multi-platformă** care rulează pe toate cele trei sisteme de operare majore (Windows, macOS, Linux).
 
@@ -96,7 +100,7 @@ Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, da
 
 - [Despre metoda Koch (engleză)](https://aa9pw.com/morsecode-test/so-you-want-to-learn-morse-code/)
 - [LCWO.net - Learn CW Online](https://lcwo.net/ro/welcome) - utilitar online pentru învățarea comunicării în CW, cu interfață în multe limbi, inclusiv română
-  - [Video pe YouTube explicând cum se folosește eficient LCWO.net](https://www.youtube.com/watch?v=iF687Kc203w)
+  - [▶️ Video pe YouTube explicând cum se folosește eficient LCWO.net](https://www.youtube.com/watch?v=iF687Kc203w)
 - [Software multi-platformă (Windows, macOS, Linux) pentru învățarea prin metoda Koch](https://github.com/hmatuschek/kochmorse)
 - [Aplicație Android pentru învățarea prin metoda Koch](https://play.google.com/store/apps/details?id=net.iz2uuf.cwkoch)
 - [Simulator de concursuri Morse Runner](http://www.dxatlas.com/MorseRunner/)
