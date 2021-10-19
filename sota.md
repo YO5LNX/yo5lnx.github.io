@@ -42,6 +42,6 @@ Alte resurse:
 
 ## Comunități internaționale
 
-- [SOTA Reflector](https://reflector.sota.org.uk/)]
+- [SOTA Reflector](https://reflector.sota.org.uk/)
 - [Fabebook](https://www.facebook.com/groups/37631909313)
 - [Reddit](https://www.reddit.com/r/SummitsOnTheAir/)
