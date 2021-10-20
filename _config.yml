@@ -3,4 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Lori, YO5LNX
 description: Un radioamator la început de drum
+locale: ro
 google_analytics: UA-201323190-1
