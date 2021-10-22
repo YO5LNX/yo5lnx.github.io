@@ -25,6 +25,8 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
   - [Logbook of The World (LoTW)](http://www.arrl.org/logbook-of-the-world)
   - [QRZ Logbook 3.0](https://www.qrz.com/docs/logbook30/start)
   - [eQSL](https://www.eqsl.cc/)
+  - [HRDLOG.net](http://hrdlog.net/)
+- [Generare hărți de QSO](https://www.dxzone.com/best-qso-mapping-tools-to-display-contacts/)
 - Repetoare
   - [Amplasamente și repetoare YO pe RadioAmator.ro](https://www.radioamator.ro/misc/amplasamente.php)
   - [Hartă SVX, RoLink, D-Star YO, DMR, Tetra, VHF, UHF](http://www.439100.ro/harta/)
@@ -69,6 +71,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 
 ## 📚 Publicații
 
+- [Arhiva Radiomagazin YO (2010-2012)](http://www.yo3ksr.ro/web/index.php/radiomagazinyo)
 - [ARRL QST Magazine](https://www.arrl.org/qst)
 - [ARRL On The Air](http://www.arrl.org/on-the-air-magazine)
 - [CQ Amateur Radio](https://cq-amateur-radio.com/)
@@ -100,6 +103,11 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [Amateur Radio Emergency Service](https://www.arrl.org/ares)
 - [Radio Amateur Civil Emergency Service](https://www.usraces.org/)
 - [Amateur Radio Emergency Data Network](https://www.arednmesh.org/)
+- [Winlink 2000 - email fără Internet](https://winlink.org/)
+  - [Prezentare Winlink 2000 în revista Radiomagazin YO, septembrie 2011, pag. 25](http://www.yo3ksr.ro/web/images/RMYOcolectie/RMYO11.pdf)
+  - [Articole Winlink 2000 pe site-ul YO3KSR](http://www.yo3ksr.ro/web/index.php/188-rvsu/software)
+  - [Winlink pe Linux](https://howtotrainyourrobot.com/winlink-setup-on-linux/)
+- [PSKmail](https://yo5kuc.ro/2017/09/pskmail-internet-prin-unde-scurte/)
 - [JS8Call](http://js8call.com/) - nu e deloc popular/cunoscut în România, dar mi s-a părut foarte interesant, temă de studiat
   - [Postări de OH8STN despre JS8Call](http://oh8stn.org/blog/tag/js8call/)
   - [Hartă JS8](https://pskreporter.info/pskmap.html?preset&callsign=ZZZZZ&mode=JS8&mapCenter=45.984854667211124,25.188410546247265,7.384898167217304)
