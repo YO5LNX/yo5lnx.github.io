@@ -2,6 +2,12 @@
     "ignorePatterns": [
         {
             "pattern": "^https://forum.softpedia.com"
+        },
+        {
+            "pattern": "^https://winlink.org"
+        },
+        {
+            "pattern": "^https://www.dxengineering.com"
         }
     ]
 }
