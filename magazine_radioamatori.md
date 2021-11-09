@@ -42,6 +42,7 @@ Nu se plătesc taxe vamale, iar TVA-ul de obicei este inclus în prețul afișat
 - [PileupDX](https://pileupdx.com/) - Suedia
 - [Xiegu.eu](https://xiegu.eu/) - Suedia, secțiune dedicată pentru Xiegu pe PileupDX, distribuitor autorizat in U.E.
 - [Astroradio](https://www.astroradio.com/en/) - Spania
+- [Hambuy](https://www.hambuy.es/) - Spania, nou și second hand
 - [MediaGlobe](https://www.mediaglobe.it/) - Italia
 - [FUNKAMATEUR / box73](https://www.box73.de/) - Germania
 - [Radioddity](https://www.radioddity.com/) - Magazin din S.U.A. cu magazie și în Germania
@@ -62,6 +63,7 @@ Nu se plătesc taxe vamale, iar TVA-ul de obicei este inclus în prețul afișat
 ### Marea Britanie (U.K.)
 
 - [ML&S](https://www.hamradio.co.uk/)
+- [Nevada Radio](https://www.nevadaradio.co.uk/)
 
 ### Statele Unite (U.S.)
 
