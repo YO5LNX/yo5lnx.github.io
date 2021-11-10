@@ -63,6 +63,7 @@ Nu se plătesc taxe vamale, iar TVA-ul de obicei este inclus în prețul afișat
 ### Marea Britanie (U.K.)
 
 - [ML&S](https://www.hamradio.co.uk/)
+- [Waters & Stanton](https://hamradiostore.co.uk/)
 - [Nevada Radio](https://www.nevadaradio.co.uk/)
 
 ### Statele Unite (U.S.)
