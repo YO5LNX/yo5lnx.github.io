@@ -59,6 +59,10 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [QRZ Forums](https://forums.qrz.com/)
 - [eHam Forums](https://www.eham.net/forum/index)
 
+### 📧 Liste de corespondență
+
+- [Liste pe groups.io de G4BKI](http://www.g4bki.com/groups.htm)
+
 ### ▶️ Canale YouTube
 
 - [YO3ITI](https://www.youtube.com/channel/UC41jXwUm1Usd4CdgN7vykZw)
