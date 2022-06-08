@@ -29,6 +29,7 @@
 Trec și orașele unde au sediul, la unele există opțiunea de a ridica produsele de la un magazin fizic sau de la sediu și astfel evitarea costurilor de transport.
 
 - [CHARMA CONECT](http://www.charma.ro/) - București, selecție mare de conectoare, adaptoare și cabluri
+- [Ethercom](https://ethercom.ro/) - București, conectoare, adaptoare și cabluri
 - [Vitacom](https://www.vitacom.ro/) - Cluj
 - [roWaves Technologies](https://rowaves.com/ro/magazin/) - Sibiu
 - [ELSTAR](https://www.elstar.ro/) - Oradea, specializat pe comnicații prin satelit
