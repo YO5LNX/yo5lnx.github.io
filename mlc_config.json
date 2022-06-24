@@ -8,6 +8,12 @@
         },
         {
             "pattern": "^https://www.dxengineering.com"
+        },
+        {
+            "pattern": "^https://www.passion-radio.com"
+        },
+        {
+            "pattern": "^https://ethercom.ro"
         }
     ],
     "httpHeaders": [
