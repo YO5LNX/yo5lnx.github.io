@@ -129,7 +129,7 @@ Având în vedere că folosesc Linux pe calculatoarele personale (și macOS la l
 
 Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, dar pentru pasionații de concursuri, DX, emcomm sau SOTA utilizarea codului Morse (modul CW de operare) poate fi utilă.
 
-- [Despre metoda Koch (engleză)](https://aa9pw.com/morsecode-test/so-you-want-to-learn-morse-code/)
+- [Despre metoda Koch (engleză)](https://www.aa9pw.com/morsecode/so-you-want-to-learn-morse-code/)
 - [LCWO.net - Learn CW Online](https://lcwo.net/ro/welcome) - utilitar online pentru învățarea comunicării în CW, cu interfață în multe limbi, inclusiv română
   - [▶️ Video pe YouTube explicând cum se folosește eficient LCWO.net](https://www.youtube.com/watch?v=iF687Kc203w)
 - [Software multi-platformă (Windows, macOS, Linux) pentru învățarea prin metoda Koch](https://github.com/hmatuschek/kochmorse)
