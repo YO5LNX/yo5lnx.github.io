@@ -28,6 +28,10 @@ Alte resurse:
 - [Discuții despre echipamente pe SOTA reflector](https://reflector.sota.org.uk/c/equipment/14)
 - [SOTABEAMS - Magazin online din UK dedicat SOTA](https://www.sotabeams.co.uk/)
 
+### Echipamentul meu
+
+Deocamdată am un YAESU FT-817ND cu o [baterie externă LiFePO4 de 3 Ah de la JuBaTec](https://www.jubatec.net/akkus/lifepo4/lifepo4-akku-12v-3ah-in-flacher-ausfuehrung-mit-bms-batterie-management-system_4614) si o antenă FM RH770. Lucrez la o antenă rezonantă pentru 20 m, cu fir atârnat pe undiță de 6 m și 3 contragreutăți. Nu m-am putut decide ce handheld să-mi iau, dar nu este imprescindibil, zic eu...
+
 ## Comunitatea SOTA din România
 
 - [Prezentare despre SOTA de Mihai Suciu YO6SM](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=18766s) - la Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 24 aprilie 2021
