@@ -1,5 +1,7 @@
 # Summits on the Air (SOTA)
 
+> [Activările mele](https://sotl.as/activators/YO5LNX)
+
 Deocamdată arunc aici doar linkurile paginilor interesante găsite de mine, dar o să încerc să ofer și comentariile mele despre resursele listate, și poate și ceva conținut original scris de mine, după ce o să am ceva experiență în domeniu.
 
 - [Site-ul oficial al programului](https://www.sota.org.uk/)
