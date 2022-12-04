@@ -34,7 +34,7 @@ Deocamdată am un YAESU FT-817ND cu o [baterie externă LiFePO4 de 3 Ah de la Ju
 
 ## Comunitatea SOTA din România
 
-- [Prezentare despre SOTA de Mihai Suciu YO6SM](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=18766s) - la Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 24 aprilie 2021
+- Prezentare despre SOTA de Mihai Suciu YO6SM - la Adunarea Generală a Membrilor Radioclubului CSM Bistrița din [24 aprilie 2021](https://www.youtube.com/watch?v=5wUo_7ORrUU&t=18766s) și din [10 septembrie 2022](https://www.youtube.com/watch?v=OHYevnyFo1I&t=6707s)
 - [Lecție SOTA de Sorin YO2MSB](https://www.youtube.com/watch?v=b9i-oRrEzJg)
 - [Blog SOTA-Romania (inactiv)](http://sota-romania.blogspot.com/)
 - [Blog YO6PIB, cel mal prolific activator SOTA YO (lb. engleză și maghiară)](https://yo6pib.blogspot.com/)
@@ -42,6 +42,7 @@ Deocamdată am un YAESU FT-817ND cu o [baterie externă LiFePO4 de 3 Ah de la Ju
 - [Blogul Radioclubului Școlar ”Gheorghe Șincai” YO6KGS](https://yo6kgs.blogspot.com/search/label/SOTA)
   - [SOTA - un sport minunat !](https://yo6kgs.blogspot.com/2021/04/sota-un-sport-minunat.html) - introducere în SOTA pe blogul mai sus menționat, cu linkuri spre tot felul de resurse
   - [Pagina Fabebook a YO6KGS](https://www.facebook.com/miciiradioamatori)
+  - [Prezentare despre expediții școlare SOTA de Daria Covaci YO6CDC](https://www.youtube.com/watch?v=OHYevnyFo1I&t=16120s) de la YO6KGS la Adunarea Generală a Membrilor Radioclubului CSM Bistrița din 10 septembrie 2022
 - [Pagina de Facebook RADIOCLUBUL SOTA YO](https://www.facebook.com/groups/484073671714735)
 - [O comunitate din Suceava](http://adone.geonet.ro/sota/) - site-ul este întreținut de către YO8AZQ
 - [Secțiunea ”Activități WWFF SOTA/IOTA/POTA/xOTA” pe forumul RadioAmator.ro](https://www.radioamator.ro/forum/viewforum.php?f=54)
