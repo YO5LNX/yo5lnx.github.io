@@ -134,6 +134,7 @@ Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, da
   - [▶️ Video pe YouTube explicând cum se folosește eficient LCWO.net](https://www.youtube.com/watch?v=iF687Kc203w)
 - [Software multi-platformă (Windows, macOS, Linux) pentru învățarea prin metoda Koch](https://github.com/hmatuschek/kochmorse)
 - [Aplicație Android pentru învățarea prin metoda Koch](https://play.google.com/store/apps/details?id=net.iz2uuf.cwkoch)
+- [Aplicație în browser de André Luiz PY2KGB/VE2ZDX (metoda Koch-Farnsworth)](https://andrekgb.github.io/lets_learn_morse_code/)
 - [Simulator de concursuri Morse Runner](http://www.dxatlas.com/MorseRunner/)
 - [CW Academy](https://cwops.org/cw-academy/cw-academy-options/) - cursuri gratuite prin Zoom cu instructor și alți cursanți în timp real (nu înregistrări video)
 - [Clase online Long Island CW Club](https://longislandcwclub.org/cw-online-classes/) - pentru membrii (1 an = $30), organizație internațională, nu trebuie să fii din Long Island
