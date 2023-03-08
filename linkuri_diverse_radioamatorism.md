@@ -81,7 +81,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [CQ Amateur Radio](https://cq-amateur-radio.com/)
 - [Practical Wireless](https://www.radioenthusiast.co.uk/)
 - [RSGB RadCom](https://rsgb.org/main/publications-archives/radcom/)
-- [CQ-DATV (gratuit - arhivă)](https://issuu.com/cq-datv)
+- [CQ-DATV (gratuit - arhivă)](https://cq-datv.ianp.uk/ebooks.php)
 
 - [▶️ A Video History of Ham Radio Publications](https://www.youtube.com/watch?v=lCVUgybTmwY) - via [YO6KGS blog](https://yo6kgs.blogspot.com/2020/10/a-video-history-of-ham-radio.html)
 
