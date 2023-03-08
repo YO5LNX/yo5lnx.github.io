@@ -119,7 +119,9 @@ Având în vedere că folosesc Linux pe calculatoarele personale (și macOS la l
 - [Colecție de linkuri despre radioamatorism cu GNU/Linux](https://hamwaves.com/linux.ham/en/index.html)
 - [DragonOS, distribuție de Linux bazată pe Ubuntu 20.04 orientată pe SDR și radioamatorism](https://sourceforge.net/projects/dragonos-focal/)
 
-## Telegrafie. Învățarea codului Morse
+## 📚 eLearning
+
+### Telegrafie. Învățarea codului Morse
 
 Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, dar pentru pasionații de concursuri, DX, emcomm sau SOTA utilizarea codului Morse (modul CW de operare) poate fi utilă.
 
@@ -133,3 +135,11 @@ Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, da
 - [CW Academy](https://cwops.org/cw-academy/cw-academy-options/) - cursuri gratuite prin Zoom cu instructor și alți cursanți în timp real (nu înregistrări video)
 - [Clase online Long Island CW Club](https://longislandcwclub.org/cw-online-classes/) - pentru membrii (1 an = $30), organizație internațională, nu trebuie să fii din Long Island
 - [International CW Council](https://internationalcwcouncil.org/)
+
+### 📈 Diagrame Smith
+
+- [Diagramele Smith în practica radioamatorilor - Lucian Rob, YO5LQ](https://www.youtube.com/watch?v=OHYevnyFo1I&t=3057s)
+- [Understanding the Smith chart](https://www.youtube.com/watch?v=rUDMo7hwihs)
+- [Finding VSWR using Smith chart](https://www.youtube.com/watch?v=YbZ9RBw7-js)
+- [How to use the NanoVNA to sweep / measure an antenna system's SWR and optimize its tuning](https://www.youtube.com/watch?v=xa6dqx9udcg)
+- [RF Fun: Visualize antenna tuner operation on Smith chart, SWR & more with VNA](https://www.youtube.com/watch?v=f8wJ0io95RE)
