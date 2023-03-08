@@ -92,6 +92,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - Transilvania Amateur Radio Emergency Service (TARES) - foarte puțină informație despre acest grup, pare să fie format de membrii clubului YO5KIP de la Cluj (al cărui site pare să fie [amatoradio.ro](https://www.amatoradio.ro/)), și să fi activat prin 2015-2016
   - [▶️ Montaj poze pe YouTube](https://www.youtube.com/watch?v=v3UUQ9aN7iA)
 - [Rețeaua Națională de Urgență a FRR](https://www.radioamator.ro/articole/view.php?id=263) - nu cred că mai există, dar Google găsește încă un [formular de înscriere](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fwww.hamradio.ro%2Fwp-content%2Fuploads%2F2020%2F05%2Fcerere-rnu.docx&wdOrigin=BROWSELINK)
+- [SalvaNet România](https://salvanet.ro/) - [anunțat în martie 2023 de YO8TEH pe blogul său](https://www.yo8teh.ro/salvanet-romania/), există prea puține informații despre organizație
 - [APRS](https://ro.wikipedia.org/wiki/APRS) e o technologie care poate fi utilă în timpul unor dezastre care afectează rețelele de comunicații normale:
   - [APRS România](http://www.aprs.ro/)
   - [Hartă APRS](https://aprs.fi/)
