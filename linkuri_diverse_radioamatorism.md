@@ -10,7 +10,6 @@ Pe de altă parte, chiar dacă am găsit multă informație cu Google, sunt doar
 
 Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) acestei pagini... în care ”arunc” linkurile către resurse radioamatoricești care mie personal mi s-au părut interesante, și pentru care încă nu am creat o categorie cu pagină separată detaliată și comentarii despre experiența mea cu resursa respectivă. Pentru sugestii, [contactați-mă](./index.md#contact)!
 
-
 ## 🔗 Fără categorie
 
 - [Site-ul de bază a radioamatorismului din România](https://www.radioamator.ro/)
@@ -46,7 +45,6 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
   - [Hamvention, Dayton Ohio (mai)](https://hamvention.org/)
   - [Ham Fair, Tokyo (octombrie)](https://www.jarl.org/English/4_Library/A-4-6_ham-fair/ham-fair.htm)
 
-
 ## 🌐 Comunități online
 
 ### 💭 Forumuri
@@ -72,7 +70,6 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [DX Explorers - YO3KEX](https://www.youtube.com/channel/UC1vqO4VwObhgT2InsrJ1Jrg)
 - [Radioamator.ro](https://www.youtube.com/channel/UCwWyi81quiU4eFFyUPSR4rw)
 
-
 ## 📚 Publicații
 
 - [Arhiva Radiomagazin YO (2010-2012)](http://www.yo3ksr.ro/web/index.php/radiomagazinyo)
@@ -84,7 +81,6 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [CQ-DATV (gratuit - arhivă)](https://cq-datv.ianp.uk/ebooks.php)
 
 - [▶️ A Video History of Ham Radio Publications](https://www.youtube.com/watch?v=lCVUgybTmwY) - via [YO6KGS blog](https://yo6kgs.blogspot.com/2020/10/a-video-history-of-ham-radio.html)
-
 
 ## 🆘 Inițiative radioamatoricești pentru comunicații de urgență
 
@@ -116,14 +112,12 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
   - [Postări de OH8STN despre JS8Call](http://oh8stn.org/blog/tag/js8call/)
   - [Hartă JS8](https://pskreporter.info/pskmap.html?preset&callsign=ZZZZZ&mode=JS8&mapCenter=45.984854667211124,25.188410546247265,7.384898167217304)
 
-
 ## 🖥️ Software
 
 Având în vedere că folosesc Linux pe calculatoarele personale (și macOS la lucru), această secțiune o să fie orientată pe software disponibil pentru acest sistem de operare. Consider că filozofia *open source* se adaptează foarte bine radioamatorismului, și încurajez toată lumea să încerce să dea prioritate software-ului *open source* când acest lucru e posibil. Acestea fiind zise, și în cadrul soluțiilor *open source* în general prefer programele **multi-platformă** care rulează pe toate cele trei sisteme de operare majore (Windows, macOS, Linux).
 
 - [Colecție de linkuri despre radioamatorism cu GNU/Linux](https://hamwaves.com/linux.ham/en/index.html)
 - [DragonOS, distribuție de Linux bazată pe Ubuntu 20.04 orientată pe SDR și radioamatorism](https://sourceforge.net/projects/dragonos-focal/)
-
 
 ## Telegrafie. Învățarea codului Morse
 

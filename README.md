@@ -7,6 +7,7 @@ Repository for my personal ham radio web site, written in Romanian. You can eith
 ## Documentation sources
 
 These are a few resources that I used to create my web page using GitHub Pages:
+
 - [The official Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
 - [List of themes supported out-of-the-box](https://pages.github.com/themes/)
 - [The "Midnight" theme](https://github.com/pages-themes/midnight) and [how it renders with default configuration](https://pages-themes.github.io/midnight/)
