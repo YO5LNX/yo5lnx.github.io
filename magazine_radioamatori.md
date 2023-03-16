@@ -10,6 +10,8 @@
 
 **[Mica publicitate](https://www.radioamator.ro/mp/mp.php?a=1) de pe [radioamator.ro](https://www.radioamator.ro/)** este o resursă excelentă în acest sens, zilnic se postează zeci de anunțuri de tot felul. Am cumpărat de la mai mulți vânzători, și mi se pare un site de anunțuri mult mai de încredere decât altele mai generice, dar și aici se găsesc ”uscături”, exemple în [forumul RadioAmator.ro](https://www.radioamator.ro/forum/viewtopic.php?f=21&t=1352). Ca aspect negativ aș menționa prețurile ridicate ale unor vânzători, care vând unele produse folosite uneori *mai scump* decât s-ar putea cumpăra noi. Și nu vorbesc de clone aici, ci de același produs. Într-un fel se poate raționaliza prin faptul că ar dura între 6-8 săptămâni ca să ajungă produsul nou din China, dar tot mi se pare exagerat. Anunțurile cu produse bune și cu preț bun se vând și dispar în câteva ore, așa că merită folosită [sindicarea RSS](https://www.radioamator.ro/rss/mp.xml) cu un program sau serviciu compatibil pentru a descoperi cât de repede apariția anunțurilor noi.
 
+**YO7GOV** este un radioamator care postează des anunțuri cu construcții proprii pe care le vinde, și are o pagină dedicată cu lista completă [aici](https://sites.google.com/site/yo7gov/).
+
 ## Magazine online din România (cu secțiuni) dedicate radioamatorilor
 
 ### 2CK
