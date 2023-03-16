@@ -70,6 +70,14 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [DX Explorers - YO3KEX](https://www.youtube.com/channel/UC1vqO4VwObhgT2InsrJ1Jrg)
 - [Radioamator.ro](https://www.youtube.com/channel/UCwWyi81quiU4eFFyUPSR4rw)
 
+### 🎙️ Podcast-uri
+
+- [Foundations of Amateur Radio](https://podcasts.vk6flab.com/podcasts/foundations) ([Spotify](https://open.spotify.com/show/21u6CYbcKg6VMidWfmxVZL))
+- [QSO Today Podcast](https://www.qsotoday.com/) ([Spotify](https://open.spotify.com/show/4ighuXokhujBDAvxouoQA2))
+- [Linux in the Ham Shack](https://lhspodcast.info/) ([Spotify](https://open.spotify.com/show/6v08Qgv8PzYiwDBuIqlV9d))
+- [Ham Radio Workbench](https://www.hamradioworkbench.com/) ([Spotify](https://open.spotify.com/show/1nWec03vNDfoZ1SnkKDe4H))
+- [Ham Radio Crash Course Podcast](http://hamradiocrashcourse.com/) ([Spotify](https://open.spotify.com/show/16Awjn2TUjrVLBffHqVtBT))
+
 ## 📚 Publicații
 
 - [Arhiva Radiomagazin YO (2010-2012)](http://www.yo3ksr.ro/web/index.php/radiomagazinyo)
