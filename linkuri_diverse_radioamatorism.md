@@ -125,7 +125,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 
 Având în vedere că folosesc Linux pe calculatoarele personale (și macOS la lucru), această secțiune o să fie orientată pe software disponibil pentru acest sistem de operare. Consider că filozofia *open source* se adaptează foarte bine radioamatorismului, și încurajez toată lumea să încerce să dea prioritate software-ului *open source* când acest lucru e posibil. Acestea fiind zise, și în cadrul soluțiilor *open source* în general prefer programele **multi-platformă** care rulează pe toate cele trei sisteme de operare majore (Windows, macOS, Linux).
 
-- [Colecție de linkuri despre radioamatorism cu GNU/Linux](https://hamwaves.com/linux.ham/en/index.html)
+- Colecții de linkuri despre radioamatorism cu GNU/Linux pe [hamwaves.com](https://hamwaves.com/linux.ham/en/index.html) și [DXZone](https://www.dxzone.com/catalog/Software/Linux/)
 - [DragonOS, distribuție de Linux bazată pe Ubuntu 20.04/22.04 orientată pe SDR și radioamatorism](https://sourceforge.net/projects/dragonos-focal/) - la acest link se poate găsi și lista programelor disponibile în această distribuție, listă enorm de lungă, care merită explorată
 
 ## 📚 eLearning
