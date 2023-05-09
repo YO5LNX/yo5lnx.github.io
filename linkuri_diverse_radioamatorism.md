@@ -144,6 +144,7 @@ Am înțeles că pe vremuri era subiect obligatoriu de examen. Acum nu mai e, da
 - [CW Academy](https://cwops.org/cw-academy/cw-academy-options/) - cursuri gratuite prin Zoom cu instructor și alți cursanți în timp real (nu înregistrări video)
 - [Clase online Long Island CW Club](https://longislandcwclub.org/cw-online-classes/) - pentru membrii (1 an = $30), organizație internațională, nu trebuie să fii din Long Island
 - [International CW Council](https://internationalcwcouncil.org/)
+- [The CW Way of Life](https://www.amazon.com/dp/B0BXNBDJRS) - carte pe Amazon.com
 
 ### 📈 Diagrame Smith
 
