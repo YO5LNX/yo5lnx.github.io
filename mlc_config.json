@@ -14,6 +14,12 @@
         },
         {
             "pattern": "^https://ethercom.ro"
+        },
+        {
+            "pattern": "^https://www.hamradio.co.uk"
+        },
+        {
+            "pattern": "^https://play.google.com"
         }
     ],
     "httpHeaders": [

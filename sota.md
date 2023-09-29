@@ -8,7 +8,7 @@ Deocamdată arunc aici doar linkurile paginilor interesante găsite de mine, dar
 - [SOTA Reflector - Forumul oficial](https://reflector.sota.org.uk/) - forumul folosește [Discourse](https://www.discourse.org/), după părerea mea cea mai bună platformă de discuții online
 - [SOTLAS](https://sotl.as/) - hartă interativă cu activări, vârfuri, alerte, mi se pare una dintre cele mai utile resurse SOTA
 - [SOTAwatch3](https://sotawatch.sota.org.uk/en/) - site-ul oficial cu ultimele activări și linkuri spre discuții de pe Reflector
-- [SOTA Spotter (Android)](https://play.google.com/store/apps/details?id=ro.netroute.sotaspotter) - cea mai populară aplicație pentru spotting, scrisă de Bogdan Lazanu, YO8SAW
+- [SOTA Spotter (Android)](https://play.google.com/store/apps/details?id=ro.netroute.sotaspotter) - cea mai populară aplicație pentru spotting, scrisă de Bogdan Lazanu, YO8SAW (notă 29-09-2023: se pare că aplicația nu mai este disponibilă pe Play Store, deși pe telefonul meu a rămas instalată, funcționează, și nu am primit nici un fel de notificare despre o eventuală încetare a disponibilității)
 
 ## Echipament
 
