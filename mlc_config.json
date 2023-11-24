@@ -19,6 +19,9 @@
             "pattern": "^https://www.hamradio.co.uk"
         },
         {
+            "pattern": "^https://open.spotify.com"
+        },
+        {
             "pattern": "^https://play.google.com"
         }
     ],
