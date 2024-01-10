@@ -1,9 +1,5 @@
 # Summits on the Air (SOTA)
 
-> [Activările mele](https://sotl.as/activators/YO5LNX)
-
-<iframe frameborder="0" scrolling="yes" src="https://neon1.net/sota/myact/?c=YO5LNX&amp;l=0&amp;w=1" height="300" width="600"></iframe>
-
 Deocamdată arunc aici doar linkurile paginilor interesante găsite de mine, dar o să încerc să ofer și comentariile mele despre resursele listate, și poate și ceva conținut original scris de mine, după ce o să am ceva experiență în domeniu.
 
 - [Site-ul oficial al programului](https://www.sota.org.uk/)
@@ -11,6 +7,12 @@ Deocamdată arunc aici doar linkurile paginilor interesante găsite de mine, dar
 - [SOTLAS](https://sotl.as/) - hartă interativă cu activări, vârfuri, alerte, mi se pare una dintre cele mai utile resurse SOTA
 - [SOTAwatch3](https://sotawatch.sota.org.uk/en/) - site-ul oficial cu ultimele activări și linkuri spre discuții de pe Reflector
 - [SOTA Spotter (Android)](https://play.google.com/store/apps/details?id=ro.netroute.sotaspotter) - cea mai populară aplicație pentru spotting, scrisă de Bogdan Lazanu, YO8SAW (notă 29-09-2023: se pare că aplicația nu mai este disponibilă pe Play Store, deși pe telefonul meu a rămas instalată, funcționează, și nu am primit nici un fel de notificare despre o eventuală încetare a disponibilității)
+
+## Activările mele
+
+<div style="text-align: center;"><iframe frameborder="0" scrolling="yes" src="https://neon1.net/sota/myact/?c=YO5LNX&amp;l=0&amp;w=1" height="150" width="600"></iframe></div>
+
+> [Link la detalii activări pe sotl.as](https://sotl.as/activators/YO5LNX)
 
 ## Echipament
 
