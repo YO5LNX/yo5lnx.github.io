@@ -12,7 +12,7 @@ Deocamdată arunc aici doar linkurile paginilor interesante găsite de mine, dar
 
 <div style="text-align: center;"><iframe frameborder="0" scrolling="yes" src="https://neon1.net/sota/myact/?c=YO5LNX&amp;l=0&amp;w=1" height="150" width="600"></iframe></div>
 
-> [Link la detalii activări pe sotl.as](https://sotl.as/activators/YO5LNX)
+> Detalii activări pe [SOTAData](https://www.sotadata.org.uk/en/stats/YO5LNX) și [sotl.as](https://sotl.as/activators/YO5LNX)
 
 ## Echipament
 
