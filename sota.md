@@ -2,6 +2,8 @@
 
 > [Activările mele](https://sotl.as/activators/YO5LNX)
 
+<iframe frameborder="0" scrolling="yes" src="https://neon1.net/sota/myact/?c=YO5LNX&amp;l=0&amp;w=1" height="300" width="600"></iframe>
+
 Deocamdată arunc aici doar linkurile paginilor interesante găsite de mine, dar o să încerc să ofer și comentariile mele despre resursele listate, și poate și ceva conținut original scris de mine, după ce o să am ceva experiență în domeniu.
 
 - [Site-ul oficial al programului](https://www.sota.org.uk/)
