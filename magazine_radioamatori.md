@@ -24,7 +24,7 @@
 
 ### Anico
 
-**[https://www.anico.ro/](https://www.anico.ro/)**
+**[https://www.anicoromania.ro/](https://www.anicoromania.ro/)**
 
 ## Alte magazine online din România cu articole utile radioamatorilor
 

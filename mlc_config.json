@@ -22,6 +22,9 @@
             "pattern": "^https://open.spotify.com"
         },
         {
+            "pattern": "^https://www.reddit.com"
+        },
+        {
             "pattern": "^https://play.google.com"
         }
     ],

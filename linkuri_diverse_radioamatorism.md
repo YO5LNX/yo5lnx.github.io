@@ -114,7 +114,6 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [Amateur Radio Emergency Data Network](https://www.arednmesh.org/)
 - [Winlink 2000 - email fără Internet](https://winlink.org/)
   - [Prezentare Winlink 2000 în revista Radiomagazin YO, septembrie 2011, pag. 25](http://www.yo3ksr.ro/web/images/RMYOcolectie/RMYO11.pdf)
-  - [Articole Winlink 2000 pe site-ul YO3KSR](http://www.yo3ksr.ro/web/index.php/188-rvsu/software)
   - [Winlink pe Linux](https://howtotrainyourrobot.com/winlink-setup-on-linux/)
 - [PSKmail](https://yo5kuc.ro/2017/09/pskmail-internet-prin-unde-scurte/)
 - [JS8Call](http://js8call.com/) - nu e deloc popular/cunoscut în România, dar mi s-a părut foarte interesant, temă de studiat
