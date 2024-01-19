@@ -25,6 +25,9 @@
             "pattern": "^https://www.reddit.com"
         },
         {
+            "pattern": "^https://www.yo8teh.ro"
+        },
+        {
             "pattern": "^https://play.google.com"
         }
     ],

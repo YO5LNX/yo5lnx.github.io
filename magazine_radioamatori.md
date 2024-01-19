@@ -33,7 +33,7 @@ Trec și orașele unde au sediul, la unele există opțiunea de a ridica produse
 - [CHARMA CONECT](http://www.charma.ro/) - București, selecție mare de conectoare, adaptoare și cabluri
 - [Ethercom](https://ethercom.ro/) - București, conectoare, adaptoare și cabluri
 - [Vitacom](https://www.vitacom.ro/) - Cluj
-- [roWaves Technologies](https://rowaves.com/ro/magazin/) - Sibiu
+- [roWaves Technologies](https://rowaves.com/ro/produse/) - Sibiu
 - [ELSTAR](https://www.elstar.ro/) - Oradea, specializat pe comnicații prin satelit
 
 ## Magazine online din Uniunea Europeană
