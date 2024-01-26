@@ -14,7 +14,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 
 - [Site-ul de bază a radioamatorismului din România](https://www.radioamator.ro/)
 - Căutare indicative
-  - [Callbook ANCOM (format Excel)](https://www.ancom.ro/uploads/links_files/Callbook_16_06_20221.xlsx)
+  - [Callbook ANCOM (format Excel)](https://www.ancom.ro/uploads/links_files/Callbook_12_12_23_2023.xlsx)
   - [Call Book YO pe RadioAmator.ro](https://www.radioamator.ro/call-book/yocall.php?call=YO5LNX)
   - [QRZ Callsign Database Search](https://www.qrz.com/db/YO5LNX)
   - [QRZCQ - The database for radio hams](https://www.qrzcq.com/call/YO5LNX)
