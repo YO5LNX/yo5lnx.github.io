@@ -39,7 +39,7 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
   - [Bannere activitate solară](http://www.hamqsl.com/solar.html)
   - [Explicare a bannerelor de activitate solară](https://www.qsl.net/co8tw/Understanding%20HF%20propagation.pdf)
   - [Buletine de propagare YO](https://www.radioamator.ro/misc/buletinepropagare.php)
-- [Radio Nostalgia. Casa-Muzeu Brusturi](http://radionostalgia-brusturi.ro/adminftp/)
+- [Radio Nostalgia. Casa-Muzeu Brusturi](http://radionostalgia-brusturi.ro/)
 - Expoziții anuale majore
   - [HAM RADIO, Friedrichshafen (iunie)](https://www.hamradio-friedrichshafen.com/)
   - [Hamvention, Dayton Ohio (mai)](https://hamvention.org/)
