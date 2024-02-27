@@ -83,7 +83,6 @@ Toată introducerea asta numai ca să apăr existența (și sper, utilitatea) ac
 - [Arhiva Radiomagazin YO (2010-2012)](http://www.yo3ksr.ro/web/index.php/radiomagazinyo)
 - [ARRL QST Magazine](https://www.arrl.org/qst)
 - [ARRL On The Air](http://www.arrl.org/on-the-air-magazine)
-- [CQ Amateur Radio](https://cq-amateur-radio.com/)
 - [Practical Wireless](https://www.radioenthusiast.co.uk/)
 - [RSGB RadCom](https://rsgb.org/main/publications-archives/radcom/)
 - [CQ-DATV (gratuit - arhivă)](https://cq-datv.ianp.uk/ebooks.php)
