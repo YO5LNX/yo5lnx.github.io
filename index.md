@@ -25,6 +25,8 @@ Folosirea Git, și în mod special a platformei gratuite de găzduire a proiecte
 
 Având în vedere că site-ul este destinat organizării unor informații relevante în primul rând **radioamatorismului din România**, vă invit să-mi trimiteți sugestiile pentru îmbunătățiri prin una din metodele prezentate la secțiunea [Contact](#contact).
 
+La începutul lui 2024 am început să-mi construiesc și o [prezență în engleză pe **QRZ**](https://www.qrz.com/db/YO5LNX), pentru audiența globală.
+
 ## Contact
 
 Deocamdată cel mai ușor mod de a mă contacta este pe email, adresa mea se poate obține pornind de la numele de domeniu al acestui site, schimbând primul punct cu simbolul `@` (nu scriu explicit adresa aici din motive evidente).
